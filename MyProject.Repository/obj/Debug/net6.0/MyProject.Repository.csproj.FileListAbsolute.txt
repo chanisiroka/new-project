@@ -1,0 +1,12 @@
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll

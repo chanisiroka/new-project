@@ -1,0 +1,17 @@
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.AssemblyInfo.cs
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\MyProject.Service.deps.json
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\MyProject.Service.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\MyProject.Service.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\Common.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\MyProject.Repository.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\Common.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\bin\Debug\net6.0\MyProject.Repository.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.csproj.CopyComplete
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\refint\MyProject.Service.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\MyProject.Service.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Service\obj\Debug\net6.0\ref\MyProject.Service.dll

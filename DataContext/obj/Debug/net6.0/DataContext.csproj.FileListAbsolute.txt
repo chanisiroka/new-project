@@ -1,0 +1,17 @@
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\bin\Debug\net6.0\DataContext.deps.json
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\bin\Debug\net6.0\DataContext.dll
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\bin\Debug\net6.0\DataContext.pdb
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\bin\Debug\net6.0\MyProject.Repository.dll
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\bin\Debug\net6.0\MyProject.Repository.pdb
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.dll
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.pdb
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+H:\שנה ב\c#++\MyProject.Webapi\DataContext\obj\Debug\net6.0\ref\DataContext.dll

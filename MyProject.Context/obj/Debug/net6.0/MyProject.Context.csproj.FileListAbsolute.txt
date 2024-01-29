@@ -1,0 +1,12 @@
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+H:\שנה ב\c#++\MyProject.Webapi\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
