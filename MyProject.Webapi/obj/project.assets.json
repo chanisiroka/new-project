@@ -4320,23 +4320,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\113\\.nuget\\packages\\": {},
+    "C:\\Users\\100\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\שנה ב\\c#++\\MyProject.Webapi\\MyProject.Webapi\\MyProject.Webapi.csproj",
+      "projectUniqueName": "C:\\Users\\100\\Documents\\GitHub\\new-project\\MyProject.Webapi\\MyProject.Webapi.csproj",
       "projectName": "MyProject.Webapi",
-      "projectPath": "H:\\שנה ב\\c#++\\MyProject.Webapi\\MyProject.Webapi\\MyProject.Webapi.csproj",
-      "packagesPath": "C:\\Users\\113\\.nuget\\packages\\",
-      "outputPath": "H:\\שנה ב\\c#++\\MyProject.Webapi\\MyProject.Webapi\\obj\\",
+      "projectPath": "C:\\Users\\100\\Documents\\GitHub\\new-project\\MyProject.Webapi\\MyProject.Webapi.csproj",
+      "packagesPath": "C:\\Users\\100\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\100\\Documents\\GitHub\\new-project\\MyProject.Webapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\113\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\100\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4345,6 +4345,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -4352,14 +4353,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "H:\\שנה ב\\c#++\\MyProject.Webapi\\Common\\Common.csproj": {
-              "projectPath": "H:\\שנה ב\\c#++\\MyProject.Webapi\\Common\\Common.csproj"
+            "C:\\Users\\100\\Documents\\GitHub\\new-project\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\100\\Documents\\GitHub\\new-project\\Common\\Common.csproj"
             },
-            "H:\\שנה ב\\c#++\\MyProject.Webapi\\DataContext\\DataContext.csproj": {
-              "projectPath": "H:\\שנה ב\\c#++\\MyProject.Webapi\\DataContext\\DataContext.csproj"
+            "C:\\Users\\100\\Documents\\GitHub\\new-project\\DataContext\\DataContext.csproj": {
+              "projectPath": "C:\\Users\\100\\Documents\\GitHub\\new-project\\DataContext\\DataContext.csproj"
             },
-            "H:\\שנה ב\\c#++\\MyProject.Webapi\\MyProject.Service\\MyProject.Service.csproj": {
-              "projectPath": "H:\\שנה ב\\c#++\\MyProject.Webapi\\MyProject.Service\\MyProject.Service.csproj"
+            "C:\\Users\\100\\Documents\\GitHub\\new-project\\MyProject.Service\\MyProject.Service.csproj": {
+              "projectPath": "C:\\Users\\100\\Documents\\GitHub\\new-project\\MyProject.Service\\MyProject.Service.csproj"
             }
           }
         }
